@@ -80,9 +80,9 @@ This project isn't just frontend work. It's thinking about SEO strategy, analyti
 
 ## How This Changed My Path
 
-Before this project, I was a web dev intern. I built websites, fixed bugs, wrote SEO content, dealt with WooCommerce, handled spam issues — basically did whatever needed doing.
+Before this project, I was a web dev intern. I built websites, fixed bugs, wrote SEO content, dealt with WooCommerce, handled spam issues basically did whatever needed doing.
 
-My 6-month internship got extended to 11 months because I kept taking on more responsibilities. Digital marketing, software testing, technical writing — I just kept saying yes to new challenges.
+My 6-month internship got extended to 11 months because I kept taking on more responsibilities. Digital marketing, software testing, technical writing  I just kept saying yes to new challenges.
 
 Then this project happened. I wasn't trying to change careers. I was just trying to build something good.
 
@@ -105,7 +105,7 @@ This wasn't about knowing React really well or being some incredible developer. 
 
 That's the skill that's useful everywhere — in web dev, in data engineering, probably in whatever I do next.
 
-If you're building something and wondering whether to add that extra feature or clean up that documentation or make that experience just a bit better — do it. Someone will notice.
+If you're building something and wondering whether to add that extra feature or clean up that documentation or make that experience just a bit better  do it. Someone will notice.
 
 ---
 
