@@ -210,11 +210,11 @@ That's the same kind of thinking I use now in **data modeling**.
 *Visual explanation of services*
 
 ### Mobile Views
-<div style="display: flex; gap: 10px;">
-  <img src="![Mobile-view-light mode](https://github.com/user-attachments/assets/e5e54cf3-ed06-4198-b5c6-403644bce1b2)
-" width="45%" alt="Mobile Light Mode">
-  <img src="![Mobile-View-dark mode](https://github.com/user-attachments/assets/daec7738-d242-43b3-a318-0e056f0943ff)
-" width="45%" alt="Mobile Dark Mode">
+![Light-mode](![Interactive-diagram](![Mobile-view-light mode](https://github.com/user-attachments/assets/62f27286-ab44-4e3e-8f46-f57f8aa25c30)
+*Light-mode*
+![Dark-Mode](![Interactive-diagram](![Mobile-View-dark mode](https://github.com/user-attachments/assets/c133b503-ab9e-43cf-98f6-864814eae784)
+*dark-mode*
+
 </div>
 
 *Fully responsive with automatic dark mode*
