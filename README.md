@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 What Happened
+##  What Happened
 
 A startup reached out asking for a basic 5 page website. They had barely any requirements just *"make something that works."*
 
@@ -24,7 +24,7 @@ I'm still there.
 
 ---
 
-## 🛠️ What I Built
+##  What I Built
 
 ### Tech Stack
 
@@ -58,36 +58,36 @@ I'm still there.
 
 ### Features I Added (That They Didn't Ask For)
 
-✅ **Full SEO Setup**
+ **Full SEO Setup**
 - Meta tags, sitemaps, structured data
 - Open Graph for social media
 - JSON-LD for rich search results
 
-✅ **Google Analytics 4 Integration**
+ **Google Analytics 4 Integration**
 - Custom event tracking
 - User journey analytics
 
-✅ **AI Chatbot**
+ **AI Chatbot**
 - 50+ pre programmed questions
 - 11 categories
 - Fuzzy matching for natural responses
 - Zero API costs
 
-✅ **Modern UX Features**
+ **Modern UX Features**
 - Dark mode (follows system preferences)
 - Page transition animations
 - Scroll progress indicator
 - Loading skeletons
 - Mobile-first responsive design
 
-✅ **Production-Ready Forms**
+ **Production-Ready Forms**
 - Zod validation
 - Error handling
 - Success states
 
 ---
 
-## 🎯 Why These Choices Mattered
+##  Why These Choices Mattered
 
 ### React + Vite (instead of Next.js)
 They wanted simple hosting without dealing with servers. Vite gave them fast builds and easy deployment. Sometimes the simpler solution wins.
@@ -100,7 +100,7 @@ They didn't have budget for OpenAI API calls. Built a smart Q&A system that feel
 
 ---
 
-## ⚡ The Technical Stuff
+##  The Technical Stuff
 
 ### Performance Optimization
 - **Code splitting:** Each route lazy loads only when needed
@@ -142,7 +142,7 @@ Used CSS custom properties with HSL values, so switching themes is just swapping
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 ```
 ┌─────────────────────────────────────────┐
 │         React Application               │
@@ -172,7 +172,7 @@ Used CSS custom properties with HSL values, so switching themes is just swapping
 
 ---
 
-## 🎓 What This Taught Me
+##  What This Taught Me
 
 ### About Reading Between the Lines
 They said they wanted a website. What they actually needed was **credibility, discoverability, and a way to engage visitors**. The website was just the tool.
@@ -191,7 +191,7 @@ That's the same kind of thinking I use now in **data modeling**.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Hero Section
 ![Hero Section](![hero-section](https://github.com/user-attachments/assets/62e725ba-ff3d-4cd0-93eb-cc822f7b2f91)
@@ -262,7 +262,7 @@ const routes: Route[] = [
 
 ---
 
-## 🚀 How This Changed My Path
+##  How This Changed My Path
 
 **Before this project:**  
 Web dev intern building websites, fixing bugs, writing SEO content, dealing with WooCommerce, handling spam issues basically doing whatever needed doing.
@@ -286,7 +286,7 @@ Weird journey, but it makes sense somehow.
 
 ---
 
-## 💼 What I'm Working On Now
+##  What I'm Working On Now
 
 **Current Role: Data Modeler & Software Engineer**
 
@@ -298,7 +298,7 @@ Projects:
 
 ---
 
-## 💡 The Part That Matters Most
+##  The Part That Matters Most
 
 This wasn't about knowing React really well or being some incredible developer.  
 
@@ -310,7 +310,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 💭 Frequently Asked Questions
+##  Frequently Asked Questions
 
 ### Q: Why can't you share the code?
 **A:** Client confidentiality agreement. However, I've documented architecture patterns and can discuss technical decisions in detail.
@@ -326,7 +326,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 🎯 Key Takeaways for Your Projects
+##  Key Takeaways for Your Projects
 
 1. **Ask better questions** - "What problem are we really solving?"
 2. **Think about the user journey** - Not just the features
@@ -336,7 +336,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 🏆 Results & Impact
+##  Results & Impact
 
 **For the Client:**
 - Professional online presence
@@ -353,7 +353,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 **Farheen Sultana**
 
@@ -364,7 +364,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - The startup founder who took a chance on an ambitious proposal
 - My web dev internship supervisor who taught me to think beyond the code
@@ -373,7 +373,7 @@ That's the skill that's useful everywhere in web dev, in data engineering, proba
 
 ---
 
-## 📝 Project Timeline
+##  Project Timeline
 ```
 Week 1: Requirements gathering, design system, core pages
 Week 2: Blog system, chatbot, SEO implementation
@@ -384,7 +384,7 @@ Week 6: Job offer 🎉
 
 ---
 
-## 🔮 What This Project Prepared Me For
+##  What This Project Prepared Me For
 
 **Skills I gained that directly apply to data engineering:**
 
