@@ -1,4 +1,4 @@
-# The Website That Got Me Hired 🚀
+# The Website That Got Me Hired 
 
 > **⚠️ Code is private (client confidentiality), but here's everything else about how I built it.**
 
@@ -379,7 +379,7 @@ Week 1: Requirements gathering, design system, core pages
 Week 2: Blog system, chatbot, SEO implementation
 Week 3: Polish, testing, deployment, documentation
 Week 4-5: Feedback, iterations, final delivery
-Week 6: Job offer 🎉
+Week 6: Job offer 
 ```
 
 ---
@@ -396,7 +396,7 @@ Week 6: Job offer 🎉
 
 ---
 
-⭐ **Inspired by this story? Give it a star and let me know what you're building!**
+ **Inspired by this story? Give it a star and let me know what you're building!**
 
 ---
 
